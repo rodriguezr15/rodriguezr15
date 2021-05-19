@@ -30,5 +30,3 @@ GitHub is a version control system that can manage files and directories, track 
 It is cross-platform, meaning you can access your projects on many different types of devices with varying OSs. Will allow for multiple users to access and modify a project at any one time without the need to be in the same location. Allows for working with partners across the country or the world.
 Git Distributed Version Control can be used without internet, has no single failure point and devs can work indecently then share/merge work later.
 Repos are used to organize a single project- can contain folders, images, videos, spreadsheets, and any other data construct.
-
--->
