@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rodriguezr15/rodriguezr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on completeting my degree in Information Systems at East Tennessee State University
 - 🌱 I’m currently learning how to dance so I don't embarrass myself at weddings.
 - 💬 Ask me about sports, video games, or traveling.
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-Week 1 Day 1 Notes:
+### Week 1 Day 1 Notes:
 
 • Welcome
 Lectures are recorded and participation is required-asking questions and answering those given by the teacher. 
