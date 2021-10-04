@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to dance so I don't "embarrass myself" at weddings.
 - 💬 Ask me about sports, video games, or traveling.
 - 📫 How to reach me: rodriguezr@etsu.edu
-- ⚡ Fun fact: I've traveled to 14 different countries!
+- ⚡ Fun fact: I've traveled to 15 different countries!
 
 
 
